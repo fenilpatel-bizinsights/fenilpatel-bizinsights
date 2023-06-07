@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fenilpatel-bizinsights</h1>
+<h1 align="center">Hi 👋, I'm Fenil Patel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 📫 How to reach me **fenil@biz-insights.com**
